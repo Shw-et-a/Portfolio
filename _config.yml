@@ -1,6 +1,17 @@
-title: Minimal theme
+title: <p align="center"> Shweta Upadhyay </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/shweta-upadhyay-6b0832178/">LinkedIn</a> |
+  <a href="https://github.com/Shw-et-a">GitHub</a>
+  
+  <br>   
+  I'm working with Bright champs as a coder Instructor since last year.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
